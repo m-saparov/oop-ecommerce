@@ -23,3 +23,8 @@ print("Total:", order.calculate_total())
 
 # Buyurtmani yakunlash
 order.complete_order()
+
+# yana qo'shimcha sifatida chiqardim
+print("Yangi balans:", user.balance)
+print("Laptop zaxirasi:", laptop.stock)
+print("Mouse zaxirasi:", mouse.stock)
